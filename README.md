@@ -1,3 +1,3 @@
 # preview
 
-https://wwwax.github.io/mogo
+https://wwwax.github.io/mogo/
